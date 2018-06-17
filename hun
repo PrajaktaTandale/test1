@@ -1,0 +1,8 @@
+hungary=input("are you hungary?")
+if hungary=="yes":
+   print("eat samosa")
+   print("eat pizza")
+   print("eat burgar")
+   print(" fries")
+else:
+    print("do your homework")
